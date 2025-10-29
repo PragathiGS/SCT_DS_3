@@ -44,5 +44,5 @@ Or explore results in Jupyter notebooks inside the `notebooks/` folder.
 
 ## Author
 
-**Pragathi GS **
+**Pragathi GS**
 GitHub: [Pragathi GS](https://github.com/PragathiGS)
