@@ -45,4 +45,4 @@ Or explore results in Jupyter notebooks inside the `notebooks/` folder.
 ## Author
 
 **Punya H**
-GitHub: [Punya-H](https://github.com/Punya-H)
+GitHub: [Pragathi GS](https://github.com/PragathiGS)
